@@ -25,13 +25,9 @@ mvn clean install
 - partition
     
 ## Cách sử dụng
-1. Chạy chương trình QuickSort
 ```bash
-python quicksort.py
-```
-2. Thực thi bộ kiểm tra
-```bash
-python -m unittest discover tests
+mvn exec:java -Dexec.mainClass="com.example.SortUtils"
+mvn test
 ```
 ## Đầu vào
 ```bash
