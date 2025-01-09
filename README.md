@@ -33,7 +33,6 @@ python quicksort.py
 ```bash
 python -m unittest discover tests
 ```
-## Ví dụ
 ## Đầu vào
 ```bash
 arr = [10, 7, 8, 9, 1, 5]
