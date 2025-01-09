@@ -3,7 +3,8 @@ Trần Trung Đức - BIT220204 - 22SE1.1
 Bài tập 2 của môn "Kiểm thử phần mềm"
 
 Đề bài: Kiểm thử nâng cao với Java(thuật toán QuickSort).
-
+## Link ChatGPT
+https://chatgpt.com/share/677fdf26-03f0-8013-aba0-bc2cf1474a38
 ## Yêu cầu trước khi sử dụng:
 - Java Development Kit (JDK) 8 hoặc mới hơn.
 - Công cụ build Maven.
