@@ -1,5 +1,7 @@
 Trần Trung Đức - BIT220204 - 22SE1.1
+
 Bài tập 2 của môn "Kiểm thử phần mềm"
+
 Đề bài: Kiểm thử nâng cao với Java(thuật toán QuickSort).
 
 ## Yêu cầu trước khi sử dụng:
