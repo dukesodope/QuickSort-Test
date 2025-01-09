@@ -10,6 +10,18 @@ Bài tập 2 của môn "Kiểm thử phần mềm"
 - JUnit 5 để kiểm thử.
 ## Kiểm thử thuật toán với JUnit 5:
 - Các trường hợp kiểm thử đầy đủ cho thuật toán QuickSort, bao phủ các trường hợp của thuật toán.
+## Các trường hợp kiểm thử
+- Mảng rỗng
+- Mảng có một phần tử
+- Mảng đã sắp xếp
+- Mảng chứa các giá trị trùng lặp
+- Mảng đảo ngược
+- Mảng có số âm và dương
+- Mảng có số 0
+- Mảng có giá trị cực trị
+- Mảng với các phần tử bằng nhau
+- Mảng lớn
+- Mảng có phần tử lớn nhất ở giữa
 ## Cài đặt 
 Clone repository:
 ```bash
