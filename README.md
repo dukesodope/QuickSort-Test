@@ -60,6 +60,13 @@ Mảng sau khi sắp xếp: [1, 5, 7, 8, 9, 10]
     │           └── SortUtilsTest.java
     ├── pom.xml
     └── README.md
+## Mức độ bao phủ **`Test Coverage`**
+- Class: 100% (2/2)
+- Method: 100% (2/2)
+- Line: 100% (16/16)
+- Branch: 100% (6/6)
+![Screenshot_3](https://github.com/user-attachments/assets/2e61b409-9ba3-434a-8d12-448551e2afc4)
+
 ## Kết quả kiểm thử
 ![Screenshot_2](https://github.com/user-attachments/assets/9b998433-c894-4283-b7fb-df080734d3eb)
 
