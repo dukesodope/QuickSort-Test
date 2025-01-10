@@ -61,7 +61,7 @@ Mảng sau khi sắp xếp: [1, 5, 7, 8, 9, 10]
     ├── pom.xml
     └── README.md
 ## Mức độ bao phủ **`Test Coverage`**
-- Class: 100% (2/2)
+- Class: 100% (1/1)
 - Method: 100% (2/2)
 - Line: 100% (16/16)
 - Branch: 100% (6/6)
